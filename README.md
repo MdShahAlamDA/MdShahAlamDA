@@ -5,11 +5,11 @@ Hi there! 👋 I'm Md Shah Alam, an aspiring **Data Analyst** with a passion for
 ---
 
 ## 📫 Let's Connect
-- 📞 **Phone:** 6201240752
-- 📧 **Email:** [mdshahalam906565@gmail.com](mailto:mdshahalam906565@gmail.com)
-- 📍 **Location:** Araria, Bihar, India
-- 🖥️ **GitHub:** [MdShahAlamDA](https://github.com/MdShahAlamDA)
-- 💼 **LinkedIn:** [md-shah-alam-671602343](https://www.linkedin.com/in/md-shah-alam-671602343)
+- 📞 **Phone:** 6201240752 📱
+- 📧 **Email:** [mdshahalam906565@gmail.com](mailto:mdshahalam906565@gmail.com) ✉️
+- 📍 **Location:** Araria, Bihar, India 🗺️
+- 🖥️ **GitHub:** [MdShahAlamDA](https://github.com/MdShahAlamDA) 🐱‍💻
+- 💼 **LinkedIn:** [md-shah-alam-671602343](https://www.linkedin.com/in/md-shah-alam-671602343) 🤝
 
 ---
 
