@@ -38,7 +38,7 @@ I enjoy building dashboards, creating predictive models, and experimenting with 
 ## 💼 What I’ve Done So Far
 ### **Python Developer Intern @ Abstinent Research & Technologies**
 *(Sep 2023 - Dec 2023)*
-- 🔗 Extracted and processed web data using **BeautifulSoup** and **Scrapy**.
+- 🔗 Extracted and processed web data using **BeautifulSoup** and **Selenium**.
 - 🧹 Cleaned and normalized datasets to ensure data integrity for analysis.
 - 🤖 Applied machine learning models to interpret data, supporting data-driven decisions.
 
