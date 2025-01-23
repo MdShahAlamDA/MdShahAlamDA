@@ -57,6 +57,16 @@ With Python, SQL, and Power BI, I:
 - 🔄 Automated data updates by connecting SQL databases for real-time tracking.
 - ✨ Focused on clarity and interactivity in dashboards to simplify decision-making.
 
+### **Predicting-Bank-Term-Deposit-Subscriptions**
+Using a dataset from a Portuguese banking institution, I:
+- 🧹 Performed exploratory data analysis (EDA) to uncover trends and patterns.
+- 🛠️ Preprocessed data, including encoding categorical features and scaling numerical ones.
+- 🤖 Built predictive models (Logistic Regression, Decision Tree, Random Forest, Gradient Boosting) to identify customers likely to subscribe to term deposits.
+- 📊 Created interactive dashboards in **Power BI** to visualize campaign performance and demographics.
+- 🔍 Key Insights:
+  - Middle-aged clients with higher balances and tertiary education are more likely to subscribe.
+  - Longer call durations and targeted follow-ups significantly improve success rates.
+
 ---
 
 ## 🧠 My Mindset
